@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "edu.miguel.thirdweek.ContaBanco.ContaTerminal",
+            "projectName": "java-anatomia-de-classes_8399daf7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Boletim",
+            "request": "launch",
+            "mainClass": "edu.miguel.firstweek.Boletim",
+            "projectName": "java-anatomia-de-classes_8399daf7"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.miguel.firstweek.MinhaClasse",
+            "projectName": "java-anatomia-de-classes_8399daf7"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.miguel.secondweek.AboutMe",
+            "projectName": "java-anatomia-de-classes_8399daf7"
+        },
+        {
+            "type": "java",
+            "name": "Comentarios",
+            "request": "launch",
+            "mainClass": "edu.miguel.secondweek.Comentarios",
+            "projectName": "java-anatomia-de-classes_8399daf7"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse(1)",
+            "request": "launch",
+            "mainClass": "edu.miguel.secondweek.MinhaClasse",
+            "projectName": "java-anatomia-de-classes_8399daf7"
+        }
+    ]
+}
